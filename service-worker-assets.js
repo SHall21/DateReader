@@ -53,8 +53,8 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-EsI0biczQmIWBw6tg4V8Hco39sKnBLjq9wQ+sC+SKWM=",
-      "url": "decode.min.js"
+      "hash": "sha256-s7QD4JWGXtFFW2yrKygJ6caHlRn4PgURo8qLs83DVFI=",
+      "url": "decode.js"
     },
     {
       "hash": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU\/+39dni9E0=",
@@ -65,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-BYqbvSRK0SF0+\/yIk2KZoeaE+edUC\/idHEPwF00PmM0=",
+      "hash": "sha256-nfjZO8JO9QBnWc06MVKyyf7BgaJ\/lvvY\/InIaH97D9A=",
       "url": "index.html"
     },
     {
@@ -77,7 +77,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-EIvc+yIZVGhBEALdEhsPerIBGEQcN2iisuDcNPhxEeA=",
+      "hash": "sha256-+GUjk1baXKbsMRaeDIU+r+b6RT5W7VvR3R3+mkdGcAo=",
       "url": "_framework\/_bin\/DateReader.dll"
     },
     {
@@ -285,7 +285,7 @@
       "url": "_framework\/_bin\/System.ComponentModel.DataAnnotations.dll"
     },
     {
-      "hash": "sha256-rstna8StWAYY6Mjxv44eVewZWfUgLimUGatHsJw\/vC0=",
+      "hash": "sha256-2S6ohtGoi4H8oNPOgEcIH8ZpHF9o+UFK4SmNB3qf1L4=",
       "url": "_framework\/_bin\/DateReader.pdb"
     },
     {
@@ -301,9 +301,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-02t5hpZMSAkthHq7Cdy90FZ9KrCN7MBdl8MDj0JnwPc=",
+      "hash": "sha256-Nk30P1U0xePgCxVabH+OMpb3mnixpmf1lwmBjRjY5+g=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "Mf5TZoij"
+  "version": "cI1udUwn"
 };
