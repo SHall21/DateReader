@@ -69,7 +69,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-nfjZO8JO9QBnWc06MVKyyf7BgaJ\/lvvY\/InIaH97D9A=",
+      "hash": "sha256-0CkcO0ckCBxSHYSo4dZ9UEJCj3T9AMFeioGU5jkjxzs=",
       "url": "index.html"
     },
     {
@@ -309,5 +309,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "1NzyBjeB"
+  "version": "\/P6uw9Lu"
 };
