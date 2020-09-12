@@ -32,6 +32,10 @@ video {
     height: auto !important;
 }
 
+.output {
+    display: none;
+}
+
 .main {
     flex: 1;
 }

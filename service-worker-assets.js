@@ -1,6 +1,10 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-y61pEFWtPTw0tSHsQeRLfaNw36wWsG70P4t6uaytt14=",
+      "url": "_content\/Toolbelt.Blazor.SpeechSynthesis\/script.min.js"
+    },
+    {
       "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "url": ".nojekyll"
     },
@@ -9,7 +13,7 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-+BRYsvcuwpDI5RKSSi7A2HSV6Ef7g6W674+qEqunnsg=",
+      "hash": "sha256-E9mwjap3WovtqthxyDPy0f9eC5bluVXt83qO2wq\/HRk=",
       "url": "css\/app.css"
     },
     {
@@ -81,7 +85,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-EIvc+yIZVGhBEALdEhsPerIBGEQcN2iisuDcNPhxEeA=",
+      "hash": "sha256-obra3pUqTAiaK1GjFUcMY3DDi9fWQfuRtqH5t1En2lI=",
       "url": "_framework\/_bin\/DateReader.dll"
     },
     {
@@ -213,6 +217,10 @@
       "url": "_framework\/_bin\/System.Numerics.Vectors.dll"
     },
     {
+      "hash": "sha256-U1\/VWq2Kz4pp47RUiNWRsBCKq419d3QJCeNR0SVHARA=",
+      "url": "_framework\/_bin\/Toolbelt.Blazor.SpeechSynthesis.dll"
+    },
+    {
       "hash": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.dll"
     },
@@ -289,7 +297,7 @@
       "url": "_framework\/_bin\/System.ComponentModel.DataAnnotations.dll"
     },
     {
-      "hash": "sha256-rstna8StWAYY6Mjxv44eVewZWfUgLimUGatHsJw\/vC0=",
+      "hash": "sha256-1oXOiSOFUYxVR1WYcK4VLyKDNdUFqXnnQlkEjELful0=",
       "url": "_framework\/_bin\/DateReader.pdb"
     },
     {
@@ -305,9 +313,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-02t5hpZMSAkthHq7Cdy90FZ9KrCN7MBdl8MDj0JnwPc=",
+      "hash": "sha256-x2INBRlpP\/h8fl4BvJA94txE+qshfvmLoh7wKDtivPw=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "r29pCd8u"
+  "version": "30lIanw1"
 };
